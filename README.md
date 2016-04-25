@@ -1,4 +1,4 @@
-# Second Zoo
+# The Zoo
 
 - [Program.cs](SecondZoo/SecondZoo/Program.cs)
 - [Test.cs](SecondZoo/SecondZoo/Test.cs)
